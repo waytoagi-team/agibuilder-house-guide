@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://waytoagi-team.github.io/agibuilder-camp-guide/sitemap.xml
+Sitemap: https://waytoagi-team.github.io/agibuilder-house-guide/sitemap.xml
