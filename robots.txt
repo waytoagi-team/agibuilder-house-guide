@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://waytoagi.com/agibuilder-camp-guide/sitemap.xml
